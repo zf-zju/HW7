@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D8334082-492D-9A89-F3C3-AFA2D3EDDFD4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "HW3",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
